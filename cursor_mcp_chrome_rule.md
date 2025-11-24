@@ -1,0 +1,5 @@
+# CURSOR-MCP-CHROME-RULE
+
+---
+
+
